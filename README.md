@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ruben</h1>
-<h3 align="center">A passionate frontend developer from Granada, Spain</h3>
+<h1 align="center">Hi 👋, I'm Ruben Serrano </h1>
+<h3 align="center">A passionate junior data engineer from Granada, Spain</h3>
 
 - 🔭 I’m currently working on [improve my GCP ETL project](https://github.com/Rubnserrano/dataengportfolio)
 
