@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **contactorubenserrano@gmail.com**
 
+- 💼 Linkedin profile [https://www.linkedin.com/in/rubnserrano/](https://www.linkedin.com/in/rubnserrano/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
