@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rubnserrano/dataengportfolio](https://github.com/Rubnserrano/dataengportfolio)
 
-- 💬 Ask me about **python, statistics,**
+- 💬 Ask me about **python, statistics, etl, gcp**
 
 - 📫 How to reach me **contactorubenserrano@gmail.com**
 
