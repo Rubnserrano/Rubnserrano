@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [improving my GCP ETL project](https://github.com/Rubnserrano/dataengportfolio)
 
-- 🌱 I’m currently learning **Kafka and AWS**
+- 🌱 I’m currently learning **Data Engineering on AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rubnserrano/dataengportfolio](https://github.com/Rubnserrano/dataengportfolio)
 
